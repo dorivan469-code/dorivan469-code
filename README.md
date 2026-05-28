@@ -14,3 +14,6 @@ Atuo como um engenheiro focado em arquitetura de soluções, lógica de programa
 
 ---
 📫 **Como me encontrar:** Você pode olhar meus repositórios ou entrar em contato para oportunidades e parcerias!
+Análise de código, arquitetura de software e engenharia de soluções com Inteligência Artificial.
+
+📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/dorivan-desenvolvedor-a58693412/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1BWR3%2FLpSny1EnDKEFhh0A%3D%3D)
