@@ -10,7 +10,7 @@ Atuo como um engenheiro focado em arquitetura de soluções, lógica de programa
 * **Armazenamento & APIs:** IndexedDB (Bancos Locais), Geolocalização (Leaflet.js), APIs Mobile
 
 ## ⚡ Projeto em Destaque
-* **[VELOX](https://github.com):** Uma versão inteligente e otimizada do Strava, com suporte offline, renderização dinâmica de mapas por velocidade/BPM e exportação de cards sociais.
+* **[VELOX](https://github.com/dorivan469-code/velox):** Uma versão inteligente e otimizada do Strava, com suporte offline, renderização dinâmica de mapas por velocidade/BPM e exportação de cards sociais.
 
 ---
 📫 **Como me encontrar:** Você pode olhar meus repositórios ou entrar em contato para oportunidades e parcerias!
